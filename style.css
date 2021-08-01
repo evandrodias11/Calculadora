@@ -19,8 +19,8 @@ body{
 }
 
 #Pantalla{
-  background: white;
-  background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  background: rgb(196,173,37);
+  background: linear-gradient(45deg, rgba(196,173,37,1) 0%, rgba(222,16,34,1) 75%, rgba(106,11,11,1) 100%);
   font-size: 20px;
   height: 100px;
   width:100%;
