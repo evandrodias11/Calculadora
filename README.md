@@ -3,4 +3,4 @@
  
  https://evandrodias11.github.io/Calculadora
 
-![print](https://user-images.githubusercontent.com/65000871/127782879-631b7c62-b249-413a-9868-3de3ca405b87.png)
+![print](https://user-images.githubusercontent.com/65000871/131200318-aab3e70a-2be3-4d85-83a6-ce58aec0ae3a.png)
